@@ -95,7 +95,6 @@ To cite our paper:
 ![Baseline_plots](https://raw.githubusercontent.com/ai4ce/DeepParticleRobot/main/docs/figs/net_displacement_results.png)
 
 **Sample visualized trials of baselines on simple navigation task.**
-
 | Handcrafted | PPO | A2C | DQN |
 |---|---|---|---|
 |<img src="https://github.com/ai4ce/DeepParticleRobot/raw/main/docs/figs/baseline%20gifs/handcrafted_baseline.gif" alt="Handcrafted" width="256">|<img src="https://github.com/ai4ce/DeepParticleRobot/raw/main/docs/figs/baseline%20gifs/ppo_baseline.gif" alt="PPO" width="256">|<img src="https://github.com/ai4ce/DeepParticleRobot/raw/main/docs/figs/baseline%20gifs/a2c_baseline.gif" alt="A2C" width="256">|<img src="https://github.com/ai4ce/DeepParticleRobot/raw/main/docs/figs/baseline%20gifs/dqn_baseline.gif" alt="DQN" width="256">|
