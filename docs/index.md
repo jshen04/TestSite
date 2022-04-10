@@ -84,9 +84,10 @@ To cite our paper:
 ```
 
 ### Task environment setups  
+
 | Simple Navigation | Obstacle Navigation | Unresponsive Particles | Object Manipulation |
 |---|---|---|---|
-|<img src="https://github.com/ai4ce/DeepParticleRobot/raw/main/docs/figs/sample%20tasks/handcrafted_simple.gif" alt="Simple Navigation" width="256">|<img src="https://github.com/ai4ce/DeepParticleRobot/raw/main/docs/figs/sample%20tasks/handcrafted_obstacle.gif" alt="Obstacle Navigation" width="256">|<img src="https://github.com/ai4ce/DeepParticleRobot/raw/main/docs/figs/sample%20tasks/handcrafted_unresponsive.gif" alt="Unresponsive Particles" width="256">|<img src="https://github.com/ai4ce/DeepParticleRobot/raw/main/docs/figs/sample%20tasks/handcrafted_object.gif" alt="Object Manipulation" width="256">|
+|<img src="https://github.com/ai4ce/DeepParticleRobot/raw/main/docs/figs/sample%20tasks/handcrafted_simple.gif" alt="Simple Navigation" width="100">|<img src="https://github.com/ai4ce/DeepParticleRobot/raw/main/docs/figs/sample%20tasks/handcrafted_obstacle.gif" alt="Obstacle Navigation" width="100">|<img src="https://github.com/ai4ce/DeepParticleRobot/raw/main/docs/figs/sample%20tasks/handcrafted_unresponsive.gif" alt="Unresponsive Particles" width="100">|<img src="https://github.com/ai4ce/DeepParticleRobot/raw/main/docs/figs/sample%20tasks/handcrafted_object.gif" alt="Object Manipulation" width="100">|
 
 ## Comparison 
 **There are many reinforcement learning environments out there, but only ours is directly suitable for simulating particle robots.**
@@ -101,7 +102,7 @@ To cite our paper:
 
 | Handcrafted | PPO | A2C | DQN |
 |---|---|---|---|
-|<img src="https://github.com/ai4ce/DeepParticleRobot/raw/main/docs/figs/baseline%20gifs/handcrafted_baseline.gif" alt="Handcrafted" width="256">|<img src="https://github.com/ai4ce/DeepParticleRobot/raw/main/docs/figs/baseline%20gifs/ppo_baseline.gif" alt="PPO" width="256">|<img src="https://github.com/ai4ce/DeepParticleRobot/raw/main/docs/figs/baseline%20gifs/a2c_baseline.gif" alt="A2C" width="256">|<img src="https://github.com/ai4ce/DeepParticleRobot/raw/main/docs/figs/baseline%20gifs/dqn_baseline.gif" alt="DQN" width="256">|
+|<img src="https://github.com/ai4ce/DeepParticleRobot/raw/main/docs/figs/baseline%20gifs/handcrafted_baseline.gif" alt="Handcrafted" width="100">|<img src="https://github.com/ai4ce/DeepParticleRobot/raw/main/docs/figs/baseline%20gifs/ppo_baseline.gif" alt="PPO" width="100">|<img src="https://github.com/ai4ce/DeepParticleRobot/raw/main/docs/figs/baseline%20gifs/a2c_baseline.gif" alt="A2C" width="100">|<img src="https://github.com/ai4ce/DeepParticleRobot/raw/main/docs/figs/baseline%20gifs/dqn_baseline.gif" alt="DQN" width="100">|
 
 ## Acknowledgment
 This research is supported by the NSF CPS program under CMMI-1932187.
